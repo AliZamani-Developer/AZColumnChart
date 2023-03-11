@@ -3,7 +3,8 @@
 
 
 ## Screenshots
-![AZColumnChart](/images/image1.jpg)
+
+<img src="/images/image1.jpg" width=30% height=100%>
 
 
 
